@@ -8,7 +8,7 @@ class Bt01Page extends StatelessWidget {
     return Scaffold(
       body: Center(
         child: Padding(
-          padding: EdgeInsets.symmetric(horizontal: 120),
+          padding: EdgeInsets.symmetric(horizontal: 20),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
@@ -23,6 +23,7 @@ class Bt01Page extends StatelessWidget {
               SizedBox(height: 40),
               Text(
                 'lorem adljfksjàlkjskfjlálakjfksdjàldsj',
+
                 style: TextStyle(
                   color: Colors.blue,
                   fontWeight: FontWeight.bold,
