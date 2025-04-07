@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Thanh
 Mata
 FH
+=======
+Thanh
+>>>>>>> parent of 711399a (Sua file A lan 2)
